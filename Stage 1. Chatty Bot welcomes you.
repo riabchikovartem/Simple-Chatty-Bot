@@ -1,0 +1,9 @@
+package bot
+
+fun main() {
+    var botName = "ChatBot"
+    var botBirth = 2023
+
+    println("Hello! My name is $botName")
+    println("I was created in $botBirth")
+}
